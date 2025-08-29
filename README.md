@@ -39,7 +39,7 @@ Finally, (if desired), copy the compiled `sidecar` binary somewhere in your path
 
 ## Screenshot
 
-![Sidecar Screenshot](https://github.com/timthepost/sidecar/blob/main/assets/sidecar.png?raw=true "Warming Up A Model")
+![Sidecar Screenshot](https://raw.githubusercontent.com/timthepost/sidecar/refs/heads/main/assets/sidecar_screenshot.png "Sidecar While Warming Up A Model")
 
 ### TODO List
 
