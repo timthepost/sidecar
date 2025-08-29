@@ -49,3 +49,5 @@ Finally, (if desired), copy the compiled `sidecar` binary somewhere in your path
 Questions? Kvetches? Thoughts about the universe or what you ate for lunch? `<timthepost@protonmail.com>`.
 
 Or, send a PR (if you can). 
+
+  [1]: https://github.com/timthepost/runa
