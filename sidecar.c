@@ -2,6 +2,8 @@
  * resources. Built to watch Runa's inference layer bus traffic
  * while monitoring system resource usage. Meant to be run in a small
  * window next to a terminal, hence the name "side car."
+ * LICENSE: MIT Or Compatible. Public Domain if that works better for you.
+ * Just have fun with it!
  *
  * s = swap
  * i = iowait over sampling time
